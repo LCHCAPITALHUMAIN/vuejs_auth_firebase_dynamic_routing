@@ -1,0 +1,2 @@
+# vuejs_auth_firebase_dynamic_routing
+Created with CodeSandbox
